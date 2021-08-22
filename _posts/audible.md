@@ -1,0 +1,17 @@
+---
+layout: post
+title: Audible
+subtitle: 
+---
+
+### My time at Audible
+
+I worked as an SDE intern at Audible the summer of 2021. During that time, I was a member of the Rhapsody iOS development team. Through my experiences here, I learned more about the Agile software development process, source control via git, and iOS development in general (it was my first time using Swift). My projects centered around improving iOS CarPlay and creating a new widget prototype.
+
+### CarPlay Streaming
+
+### CarPlay Player Improvements
+
+### Listening Stats Widget Prototype
+
+###### For more details about my work at Audible, please reach out to me via email. Thank you.
