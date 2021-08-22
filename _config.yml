@@ -16,15 +16,15 @@ author: Samantha Hallam
 navbar-links:
   About Me: "aboutme"
   Games:
-    - Yoobi
-    - Waifu War III
-    - Autunes
+    - Yoobi: 
+    - Waifu War III:
+    -  Autunes:
   Other Projects:
-    - City Selector
-    - Desktop Pet
+    - City Selector:
+    - Desktop Pet:
   Professional Work:
-    - -Audible
-  Resume: "Resume"
+    - Audible: "audible"
+  Resume: "https://docs.google.com/document/d/1qLSwSjMaWQMUmT1jKzKxq5VxrgPR71qRZFJyGMY1TfM/edit?usp=sharing"
 
   
 
