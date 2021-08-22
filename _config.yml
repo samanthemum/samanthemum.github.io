@@ -15,10 +15,17 @@ author: Samantha Hallam
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Projects:
+  Games:
+    - Yoobi
+    - Waifu War III
+    - Autunes
+  Other Projects:
+    - City Selector
+    - Desktop Pet
+  Professional Work:
+    - -Audible
+  Resume: "Resume"
+
   
 
 # --- Logo --- #
