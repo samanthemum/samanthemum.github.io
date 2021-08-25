@@ -15,7 +15,7 @@ City Selector was created for the 2020 Datathon. It was created using a Python n
 * Adjusted the algorithm to get reasonable answers
 * Scoured the internet for public, relevant data sets
 
-### What I learned
+#### What I learned
 
 * Python libraries (Pandas and Plotly.express)
 * How hard it is to find nice, publically available datasets!
