@@ -18,11 +18,12 @@ navbar-links:
   Games:
     - Yoobi: "2019-12-10-yoobi"
     - Waifu War III: "2020-04-23-www3"
-    -  Autunes: "2020-11-19-autunes"
+    - Autunes: "2020-11-19-autunes"
   Academic:
     - PHP Driven Website: "2021-09-27-website"
     - Linux Shell: "2021-10-08-shell"
     - Java/SQL Application: "2021-11-02-sql"
+    - Event Planner: "2021-12-10-event_planner"
   Other:
     - City Selector: "2020-10-17-city_search"
     - Desktop Familiar: "2021-10-04-desktop_familiar"
