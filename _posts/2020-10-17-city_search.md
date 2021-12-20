@@ -24,4 +24,4 @@ City Selector was created for the 2020 Datathon. It was created using a Python n
 
 * Advancing algorithms used for analysis
 
-###### To view the repository of files used, head here: https://github.com/Quivun/Avocado_Ninjas
+<h6><a href="https://github.com/Quivun/Avocado_Ninjas">To view this project's repository, click here!</a></h6>
