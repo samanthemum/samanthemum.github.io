@@ -25,8 +25,8 @@ navbar-links:
   Graphics:
     - Ray Tracer: "2022-05-12-raytracing"
     - Dynamic Geometry: "2022-04-12-rendering"
-    - Free Look World: "2022-03-30-world"
-    - Shaders: "2022-03--8-shaders"
+    - Free Look World: "2022-03-30-free"
+    - Shaders: "2022-03-08-shaders"
     - Hierarchical Transformations: "2022-02-21-robot"
     - Rasterizer: "2022-02-07-rasterizer"   
   Other:
